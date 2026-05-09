@@ -1,0 +1,3 @@
+This repository contains a collection of projects focused on equity research, capital budgeting, and quantitative portfolio construction. These projects demonstrate my ability to translate complex data into actionable investment insights.
+Strategic Wealth Proposal: Developed a comprehensive portfolio strategy for a moderate-risk client, focusing on global market mandates and individual security selection.
+NextEra Energy (NEE) DCF Analysis: This project features a comprehensive Intrinsic Valuation of NextEra Energy, utilizing a multi-stage Discounted Cash Flow (DCF) model. The analysis focuses on the company’s unique position as a regulated utility with a massive footprint in renewable energy through its Energy Resources segment.
